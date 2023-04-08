@@ -5,7 +5,7 @@ campaign: "Dal Glug's Awakening"
 location: yi, church of abertai, jail
 date: 25-Mar-2023
 created: 2023-03-25 11:17:17 -07:00
-updated: 2023-04-06 00:31:14 -07:00
+updated: 2023-04-08 15:04:25 -07:00
 ---
 # Frogs Campaign S1E41
 ## **Dal Glug's Awakening**
@@ -27,9 +27,17 @@ Meanwhile, [[Draxus]] stares at the flat stone wall that once used to be a door.
 
 He washed up on the shore of a small place called [[Prison Isle]] and was quickly imprisoned by a group of goblins who inhabited the island. He suffered there for many months, but after a while, a new group of prisoners were brought to the cages. After a short stint in custody, they staged a prison break and were able to release Hubert in the process, but they were not kind to him. One of the group, [[Glacialmaw]], took a piece from Hubert, and Hubert says the price must be paid.
 
-He continues to speak to [[Draxus]], confirming that the child [[Draxus]] was following from before was sent by him - when he heard [[Glacialmaw]] was in [[Yi]], he sent out his child slaves to find him.
+He continues to speak to [[Draxus]], confirming that the child [[Draxus]] was following from before was sent by him - when he heard [[Glacialmaw]] was in [[Yi]], he sent out his child slaves to find him. [[Hubert Pumpkinpatch]] tells [[Draxus]] that he needs to deliver [[Glacialmaw]] to pay the price of his transgressions and needs [[Draxus]] to give some sort of collateral while he searches for [[Glacialmaw]]. [[Draxus]] sticks his hands into Hubert's stone mouth and a stinging pain runs up his arms as Hubert bites down. Draxus takes his arms out of the stone mouth and reveals two stumps where his hands were. The stone face then fades back into the wall and the doorway reemerges, allowing [[Draxus]] to aid three people to exit the cell area before the stone once again closes behind him. They make they way up the stairs and emerge in the alleyway next to the [[Prying Pumpkin]].
 
-***still pending***
+Meanwhile, [[Virahck]] continues to run hoping to meet up with [[Palu]], but is unable to catch up. [[Palu]] had been running at full speed trying to get away from the guards who were now chasing her, but unfortunately after tripping over a fruit stand, she finds herself on the docks with nowhere to go and quickly gets tackled before being placed into custody. She essentially admits to aiding in [[Glacialmaw]]'s escape and is then led up into the industrial district and is placed in jail.
+
+[[Glacialmaw]], at this point, is running from the [[Prying Pumpkin]] and makes his way to the Circle before entering the [[Church of Abertai]] for safe harbor, stating that he will be donating 50 gold, so they happily let him in.
+
+[[Draxus]] and [[Kothvush]] separately make their way to the Circle, seeing [[Uncle Glom's Band]] performing on stage as the crowd gathers for the [[Dreaming of Dirigibles]] giveaway. They begin reading off the prizes, but just as they get to the final prize winner, the sunlight appears to dim substantially and light disappears from the ground as a shadow spreads from the center of the Circle. Many look up into the sky to see a massive blood red pyramid with hundreds of bats emerge from the pyramid above. About 30 or so bats land in the Circle and transform into humanoids - upon closer look, they are vampire spawn. The mayor is ushered off stage and the crowd scrambles in a panic as the vampire spawn begin absolutely slaughtering anybody in sight.
+
+In the chaotic scene, [[Draxus]] takes the opportunity to plant a magic bean in the ground before shedding a single tear to water it - all of a sudden, 11 thick and stalky 5-foot-tall mushrooms burst out of the ground and begin shrieking with an ear piercing shrill tone, heard from 300 feet around. [[Draxus]] takes out *another* bean and plants it, causing 9 bright pink toads to dig themselves up out of the ground. [[Draxus]] swings his foot at one of them and as his foot strikes the amphibian, it is launched in the air and begins transforming from this small pink toad into a massive 12-foot-tall snarling red haired ape creature. He continues slamming the remaining toads, effectively summoning a small group of the apes, who indiscriminately thrashing everything in sight.
+
+The City of [[Yi]] is in a state of pure chaos.
 
 ### Log
 [[Glacialmaw]] and [[Kothvush]] are trapped in the doorway of the [[Prying Pumpkin]] with about 20 guards surrounding the entrance. [[Glacialmaw]] closes the door behind him and the two of them walk further into the [[Prying Pumpkin]].

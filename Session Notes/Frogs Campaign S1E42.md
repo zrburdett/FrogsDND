@@ -2,20 +2,38 @@
 type: session
 tags: dnd
 campaign: "Dal Glug's Awakening"
-location: 
+location: yi, prying pumpkin
 date: 01-Apr-2023
 created: 2023-04-01 11:13:43 -07:00
-updated: 2023-04-01 14:12:11 -07:00
+updated: 2023-04-08 15:36:09 -07:00
 ---
 # Frogs Campaign S1E42
 ## **Dal Glug's Awakening**
 *< [[Frogs Campaign S1E41]] | [[Frogs Campaign S1E43]] >*
 
 ### Last time
-
+![[Frogs Campaign S1E41#Session Summary]]
 
 ### Session Summary
+[[Kothvush]] and [[Virahck]] see each other in all the commotion and decide to make their way towards the [[Prying Pumpkin]] to find the rest of the party while [[Draxus]] simultaneously does the same. [[Draxus]] makes it there first and proceeds to plant another one of the [[Magic Beans]] into the ground, causing yet another pyramid to grow and emerge from the ground, expanding to a 60 square foot base pushing up 30 feet in the air, destroying the side of the [[Prying Pumpkin]] building in the process.
 
+[[Draxus]] whispers to the [[Demogorgon]] - though unsettling, he gets the feeling that he's doing the right thing, so he moves towards the door of the swelling pyramid and casts Dancing Lights so that he's able to see as he descends into the depths of the new pyramid alone.
+
+[[Palu]] continues to remain trapped in her jail cell, eventually speaking to a plump and bald man who yells at her to keep quiet. She pleads with him that she's a high level magic user and that she can help save the city, but he is unamused and spits in her face after saying, "Cast this!" [[Palu]] attempts to distract the guard with Mage Hand, but he seems unphased as he walks away. The spectral hand fails to maintain a hold of the keys, but struggles to do so and [[Palu]] is left alone in her cell.
+
+As they round the corner, [[Virahck]] and [[Kothvush]] see a mysterious pyramid on the side of the [[Prying Pumpkin]] that wasn't there before. They take another route as their path is blocked and then get closer to the pyramid to get another look.
+
+Meanwhile, [[Draxus]] is descending further into the pyramid and eventually enters a chamber that holds a lifted stone block with a golden sarcophagus on top, several chests, some tapestries, and a large wooden ship wheel. He tries to spin the wheel with an [[Eldritch Blast]] - the blast hits one of the pegs and the ensure pyramid begins to shift as the wheel turns slightly. Another [[Eldritch Blast]] hits the toe of the sarcophagus, revealing the feet of a mummified humanoid. He quickly searches the chests, gathering some useful loot, and then glances over at the sarcophagus just in time to see the toes of the corpse begin to curl. [[Draxus]], not wanting any part of what may happen, runs back up the stairs.
+
+While this is happening, [[Glacialmaw]] remains in the [[Church of Abertai]], speaking with the bishops and praying to [[Abertai]] - he feels stronger and gains [[Abertai]]'s Blessing (+1 to AC and saving throws).
+
+As [[Virahck]] and [[Kothvush]] round the corner to get a better look at the pyramid, they look at the [[Prying Pumpkin]] where the wall had been destroyed by the pyramid and see a handsome blond man digging through some of the artifacts on the fourth floor. It looks like he's sorting through some spellcasting components so [[Virahck]] calls out to him after getting on the pyramid, but loses his footing and falls off the side. [[Kothvush]] scales the side of the pyramid and calls out to the man as well before jumping towards him. He lands on the fourth floor, but the floor boards give way and cause him to fall into the third floor's room with all of the orbs. [[Kothvush]] quickly peruses the shelves and pockets one as [[Draxus]] and [[Virahck]] make their way into the crumbling building to hopefully catch the blond man as he tries to run away. The three of them meet up inside and make their way to the top of the building towards the big man's office.
+
+The blond man is leaning over his desk appearing to arrange some items on his desk. We confront him and [[Draxus]] tells him that their deal is done with. The blond man cracks a smile and begins muttering under his breath, whispering an incantation as he starts to disappear. [[Draxus]] quickly casts counterspell and causes the spell to fizzle out as the man's face turns to anger.
+
+We begin the fight of our lives, hurling everything we've got at the man while he enacts a vicious assault, spawning delusions, provoking unprompted actions, but [[Draxus]] is able to lock him over the desk and out of concentration. The man responds by shooting out jets of cold air at the three of us, dealing massive. The fight continues and everybody gets more and more injured until [[Kothvush]] attempts to grab hold of him in an effort to push the two of them out of the window, but his hands slip and he tumbles through the glass alone, falling into the alleyway. As [[Kothvush]] regains his composure and looks up at where he fell, he sees the man go out of the window as well, but he instead begins flying away into the distance.
+
+[[Virahck]] and [[Draxus]] manage to escape the crumbling building just as the pyramid shifts again and destroys the [[Prying Pumpkin]] even more.
 
 ### Log
 There are about 15-20 vampires that landed from the red pyramid.
