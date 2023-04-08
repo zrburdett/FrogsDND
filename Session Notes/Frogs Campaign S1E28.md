@@ -1,0 +1,38 @@
+---
+type: session
+tags: dnd
+campaign: "Dal Glug's Awakening"
+location: feywild, sherman
+date: 11-Aug-2022
+created: 2022-09-16 17:05:50 -07:00
+updated: 2022-09-22 21:20:37 -07:00
+---
+# Frogs Campaign S1E28
+## **Dal Glug's Awakening**
+*< [[Frogs Campaign S1E27]] | [[Frogs Campaign S1E29]] >*
+
+### Last time
+
+
+### Session Summary
+
+
+### Log
+[[Janus]] offers fish and greens for us to munch on when we get to her cottage. This is the [[Feywild]]! I'm surprised you managed to enter without knowing... The [[Feywild]] is another plane of existence. [[Draxus]] tells us the fey wild is... magical and tricky. There are beings here who want to keep us here against our will. [[Janus]] leads us away from the pond and down a path. Someone has been down this path and has cleared it - kept up with it. As we're walking, [[Janus]] asks "What is your world like? Is there a massive forest there too?" They also call it the [[Towering Forest]]. People, beings, many things have come through the pond but you may be the first in 5-10 years. I visit frequently, but others don't, really. The first time [[Janus]] learned of the portal, a large group of giants came through about 250 years ago.
+
+##### _**COTTAGE**_
+The cute cottage has been here for a long time - she was born in this house and has lived here ever since. She lets us in - there is one big room with a kitchen to the left and a dining table on the right. Another woman similar looking to [[Janus]] is prepping food at the cutting board. She welcomes us in, her name is [[Yanus Obanus]]. "Oh the fish! It's burning!" The oven appears to be stuck! [[Draxus]] helps and notices the oven opens rather easily. _[[Janus|JANUS]] tries to PUSH [[Draxus|DRAXUS]] INTO THE OVEN!_ [[Janus]] and [[Yanus Obanus]] start shifting into ugly tall mfers. _**COMBAT**_
+
+##### _**COMBAT OVER**_
+The cottage is smelling horribly of burnt fish while the gray corpses of the three losers lay lifeless. We start looking around... Cupboard with random cleaning supplies, bedroom with only 1 bed, basement with crates and food, etc. Not a ton of valuables in the bedroom, but we find a few articles of clothing and then a small burlap bag in the corner - it's full of 11 [[Magic Beans|dried beans]]. They're rather large and heavy, light brown with sequins within. [[Draxus]] plants one seed in the ground and we go back inside for a rest. Within 1 minute, a massive fruit tree has grown from the place where the seed was planted. It has 24 fruit on it. Each one is a different color - [[Draxus]] brings a cool blue one to [[Virahck]]. He eats it and all of his things become perfectly clean! 7 of them (now 6) are magic fruit, 17 are regular fruit.
+
+[[Draxus]] chomps on a fruit and slowly shrinks further and further until he looks like a dang stout halfling. (He walks away and has a breakdown.) [[Glacialmaw]] becomes more famous and our memories become altered to reflect that. [[Palu]] gains the ability to turn things into gold for the foreseeable future. [[Kothvush]] becomes much more terrifying (+2 to all intimidation rolls). Ibu becomes significantly more ugly. We decide to split the last fruit into 6 pieces - we now have horrible insomnia.
+
+##### _**HEADING NORTH**_
+There is a continuation of the path, which is heading north. We walk along the path... As we walk into the clearing, we hear a booming voice: "Who goes there?" [[Glacialmaw]] responds. A figure steps out of a tree trunk - it's 45 foot tall humanoid, another steps out on the other side. "These are the gates to [[Sherman]] - kingdom of the giants. Be on your way if you have no business here. [[Sherman]] is a city, the only one in the [[Towering Forest]]. [[Hugh Mon Gogh]] is the leader. Since the fall of [[Macknus]] a few hundred years ago, [[Hugh Mon Gogh]] has been leading. [[King Fleshbarg|Fleshbarg]] is still alive? You have vital intel? We will take you to [[Hugh Mon Gogh|Hugh]]. We came here during the fall of [[Macknus]] 200 someodd years ago. The material plane was inhospitable to giants." A pair of golden gates swing open, revealing a spiral staircase in a massive tree. Big enough for several 45 foot giants to stand beside each other. The sentinel carries [[Draxus]] because he has smol leg now. It takes a very long time to climb. We come to a landing, centered at the tree. The sentinel presses a "button" revealing a small box room - it's a magic elevator.
+
+##### _**CANOPY CITY - [[Sherman|SHERMAN]]**_
+Huge platforms and treehouses over the roof of the forest. About 50 buildings surrounding the central area. There's a building in the center and there is a large boulder just below it. At the very top of the boulder, there is a [[Mushroom Trinket|small stone piece]] in the shape of a mushroom, about 5 inches tall. [[Mushroom Trinket|The mushroom]] is an artifact that they brought from [[Macknus]], given to [[Hugh Mon Gogh]]. Since it's movement, it's been sealed in this boulder. [[Hugh Mon Gogh]] wanted [[King Fleshbarg]] to summon [[The Beast]] to save [[Macknus]], but [[King Fleshbarg]] refused. They fled here with [[Hugh Mon Gogh]], while [[King Fleshbarg]] remained in [[Macknus]]. Several other onyx keys exist in other races. [[Draxus]] pulls out [[King Fleshbarg's Key|the key]] and presents it to the sentinel. We ask about a red bat vampire and they have heard of vampires, but have heard of a giant vampire once upon a time.
+[[King Fleshbarg]]
+##### _**INTERIOR**_
+A giant is laying down and resting, but perks up when we enter. Against the back wall is a long bench, on which the giant is sitting. The giant is rather old, deep voice, but warm and friendly. He welcomes us in and questions us. We tell him that we discovered [[King Fleshbarg|Fleshbarg]]'s body. We tell him that [[King Fleshbarg|Fleshbarg]] was isn't really dead, but the [[Ohara Tree]] is keeping him alive. My name is [[Pailoff]]. [[Draxus]] shows the [[King Fleshbarg's Key|little black stone]] to [[Pailoff]], then hands it over. It appears that he is very familiar with this key. "We left this with him when we left the city. I know the location of [[Beast's Lock|the lock]] - I could tell you and give you more information. It can open a portal in the volcano of [[Iwo Jima]], there are many other keys. Long before [[King Fleshbarg]] was king of [[Macknus]], a few races lived upon the [[Wishbones]] and were unfortunately tormented by a beast that lingered in the seas. My great-grandfather always called it _the [[The Beast|Beast Bathed in Fire]]._ We lived peacefully with little conflict between the races, but the beast became a common enemy. It would attack ships and would climb up, when it didn't have enough food, to feast on beings on lang. Feasting on boiled bodies, it grew larger and larger, but [[The Beast|the beast]] would crawl upon the land to devour all it sees. After years of torment, the few races met in [[Soulwell]] and we entered a pact to defeat [[The Beast|the beast]]. We had no hopes of killing it, it was too large, powerful, and hot. We decided to seal [[The Beast|the beast]] in a mountain. Thousands died in an attempt to seal it away. After many years of collaboration, we managed to seal it in a [[Prison Realm]] created by a collection of wizards. [[Keys of the Beast|Keys to the lock]] were given to participating races to keep it locked away - this is one of those keys. If all are entered into the portal, [[The Beast|the beast]] can escape and enter the [[Material Plane]] again. We begged [[King Fleshbarg]] to open the portal to help defend against the races attacking us. We existed long enough with [[The Beast|the beast]] to know how to live with it, [[King Fleshbarg]] refused.
