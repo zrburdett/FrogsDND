@@ -10,7 +10,7 @@ updated: 2023-01-28 11:36:04 -08:00
 ## Sessions
 ```dataview
 TABLE location as "Locations", date as "Session Date"
-FROM "Dungeons and Dragons/Frogs Campaign/Session Notes"
+FROM "Session Notes"
 WHERE campaign = "Dal Glug's Awakening"
 SORT file.name desc
 ```
@@ -18,21 +18,21 @@ SORT file.name desc
 ## Player Characters
 ```dataview
 TABLE race AS "Race", class AS "Class"
-FROM "Dungeons and Dragons/Frogs Campaign/People" AND -#former-pc
+FROM "People" AND -#former-pc
 WHERE type = "character" AND campaign = "Dal Glug's Awakening"
 ```
 
 ## NPCs
 ```dataview
 TABLE description as "Description", location as "Location"
-FROM "Dungeons and Dragons/Frogs Campaign/People"
+FROM "People"
 WHERE type = "npc" AND campaign = "Dal Glug's Awakening" 
 ```
 
 ## Locations
 ```dataview
 TABLE description as Description
-FROM "Dungeons and Dragons/Frogs Campaign/Locations"
+FROM "Locations"
 WHERE type = "location" AND campaign = "Dal Glug's Awakening"
 ```
 
