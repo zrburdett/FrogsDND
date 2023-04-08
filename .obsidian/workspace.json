@@ -13,13 +13,26 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Session Notes/Frogs Campaign S1E40.md",
+                "file": "Dal Glug's Awakening.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "d5aecfc204587575",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "README.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -85,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Session Notes/Frogs Campaign S1E40.md",
+                "file": "README.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Session Notes/Frogs Campaign S1E40.md",
+                "file": "README.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Session Notes/Frogs Campaign S1E40.md"
+                "file": "README.md"
               }
             }
           }
@@ -133,8 +146,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -146,19 +158,25 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "4ccb2b3b1b80ccab",
+  "active": "d5aecfc204587575",
   "lastOpenFiles": [
-    "Session Notes/Frogs Campaign S1E02.md",
-    "People/Virahck.md",
+    "People/Mo.md",
+    "People/The Beast.md",
     "Dal Glug's Awakening.md",
+    "README.md",
+    "Session Notes/Frogs Campaign S1E12.md",
+    "People/Draxus.md",
+    "People/Azurak.md",
+    "Session Notes/Frogs Campaign S1E02.md",
+    "Session Notes/Frogs Campaign S1E01.md",
+    "Items/Legacy Journal.md",
+    "Session Notes/Frogs Campaign S1E40.md",
+    "People/Virahck.md",
     "Session Notes/Frogs Campaign S1E29.md",
     "Session Notes/Frogs Campaign S1E28.md",
     "Session Notes/Frogs Campaign S1E27.md",
     "Session Notes/Frogs Campaign S1E26.md",
     "Session Notes/Frogs Campaign S1E07.md",
-    "Session Notes/Frogs Campaign S1E01.md",
-    "People/Draxus.md",
-    "Locations/Mystic Isle.md",
-    "Items/Legacy Journal.md"
+    "Locations/Mystic Isle.md"
   ]
 }
