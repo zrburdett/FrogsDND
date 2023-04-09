@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Dal Glug's Awakening.md",
+                "file": "README.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Dal Glug's Awakening.md",
+                "file": "README.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Dal Glug's Awakening.md",
+                "file": "README.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Dal Glug's Awakening.md"
+                "file": "README.md"
               }
             }
           }
@@ -147,8 +147,8 @@
   },
   "active": "4ccb2b3b1b80ccab",
   "lastOpenFiles": [
-    "README.md",
     "Dal Glug's Awakening.md",
+    "README.md",
     "Session Notes/Frogs Campaign S1E07.md",
     "People/Virahck.md",
     "People/Pico.md",
