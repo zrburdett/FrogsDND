@@ -29,7 +29,7 @@ When looking at a particular note in Obsidian, you can also see every instance i
 
 ![Backlinks Example](https://i.imgur.com/xgijzr7.png)
 
-You'll also see the way that links are created in Obsidian is with double brackets like so: `[[ ]]`. Anything within the double brackets will link to a note, whether that note has been created or not. Clicking on one of the diummer links that does not have a note that's already created will create that file for you, otherwise, the link will take you to the pre-existing note, where you can view everything that's been written already for that topic.
+You'll also see the way that links are created in Obsidian is with double brackets like so: `[[ ]]`. Anything within the double brackets will link to a note, whether that note has been created or not. Clicking on one of the dimmer links that does not have a note that's already created will create that file for you, otherwise, the link will take you to the pre-existing note, where you can view everything that's been written already for that topic.
 
 ---
 
