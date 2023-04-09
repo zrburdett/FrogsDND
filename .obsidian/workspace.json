@@ -18,21 +18,8 @@
                 "source": false
               }
             }
-          },
-          {
-            "id": "d5aecfc204587575",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "README.md",
-                "mode": "source",
-                "source": false
-              }
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -98,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "README.md",
+                "file": "Dal Glug's Awakening.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "README.md",
+                "file": "Dal Glug's Awakening.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "README.md"
+                "file": "Dal Glug's Awakening.md"
               }
             }
           }
@@ -158,12 +145,15 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "d5aecfc204587575",
+  "active": "4ccb2b3b1b80ccab",
   "lastOpenFiles": [
+    "README.md",
+    "Dal Glug's Awakening.md",
+    "Session Notes/Frogs Campaign S1E07.md",
+    "People/Virahck.md",
+    "People/Pico.md",
     "People/Mo.md",
     "People/The Beast.md",
-    "Dal Glug's Awakening.md",
-    "README.md",
     "Session Notes/Frogs Campaign S1E12.md",
     "People/Draxus.md",
     "People/Azurak.md",
@@ -171,12 +161,10 @@
     "Session Notes/Frogs Campaign S1E01.md",
     "Items/Legacy Journal.md",
     "Session Notes/Frogs Campaign S1E40.md",
-    "People/Virahck.md",
     "Session Notes/Frogs Campaign S1E29.md",
     "Session Notes/Frogs Campaign S1E28.md",
     "Session Notes/Frogs Campaign S1E27.md",
     "Session Notes/Frogs Campaign S1E26.md",
-    "Session Notes/Frogs Campaign S1E07.md",
     "Locations/Mystic Isle.md"
   ]
 }
