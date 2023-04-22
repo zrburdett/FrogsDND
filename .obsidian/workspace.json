@@ -8,18 +8,38 @@
         "type": "tabs",
         "children": [
           {
+            "id": "6eded20ee3e4a535",
+            "type": "leaf",
+            "pinned": true,
+            "state": {
+              "type": "canvas",
+              "state": {
+                "file": "Visualization.canvas",
+                "viewState": {
+                  "x": -2513.432343686026,
+                  "y": -103.87972115398873,
+                  "zoom": -1.5516253168470437
+                }
+              },
+              "pinned": true
+            }
+          },
+          {
             "id": "4ccb2b3b1b80ccab",
             "type": "leaf",
+            "pinned": true,
             "state": {
               "type": "markdown",
               "state": {
                 "file": "Dal Glug's Awakening.md",
                 "mode": "source",
                 "source": false
-              }
+              },
+              "pinned": true
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -128,50 +148,65 @@
                 "file": "Dal Glug's Awakening.md"
               }
             }
+          },
+          {
+            "id": "e7ffa4279e9424c8",
+            "type": "leaf",
+            "state": {
+              "type": "DICE_ROLLER_VIEW",
+              "state": {}
+            }
           }
-        ]
+        ],
+        "currentTab": 4
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 485.5,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
       "switcher:Open quick switcher": false,
       "graph:Open graph view": false,
       "canvas:Create new canvas": false,
-      "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
-      "command-palette:Open command palette": false
+      "command-palette:Open command palette": false,
+      "workspaces:Manage workspace layouts": false,
+      "obsidian-leaflet-plugin:Open Leaflet Map": false
     }
   },
   "active": "4ccb2b3b1b80ccab",
   "lastOpenFiles": [
-    "People/Kothvush.md",
-    "People/Mo.md",
-    "People/Palu.md",
-    "People/Pico.md",
-    "People/The Beast.md",
+    "Visualization.canvas",
     "Dal Glug's Awakening.md",
-    "Session Notes/Frogs Campaign S1E44.md",
-    "Scaramar.md",
-    "gobin french man.md",
-    "Session Notes/Frogs Campaign S1E38.md",
-    "Session Notes/Frogs Campaign S1E43.md",
-    "Session Notes/Frogs Campaign S1E42.md",
-    "Session Notes/Frogs Campaign S1E41.md",
-    "Session Notes/Frogs Campaign S1E40.md",
-    "Session Notes/Frogs Campaign S1E39.md",
-    "README.md",
+    "Session Notes/Frogs Campaign S1E45.md",
+    "Session Notes/Frogs Campaign S1E06.md",
     "Session Notes/Frogs Campaign S1E07.md",
-    "People/Virahck.md",
-    "Session Notes/Frogs Campaign S1E12.md",
-    "People/Draxus.md",
     "People/Azurak.md",
-    "Session Notes/Frogs Campaign S1E02.md",
-    "Session Notes/Frogs Campaign S1E01.md",
-    "Items/Legacy Journal.md",
+    "Files/paper-square.jpg",
     "Session Notes/Frogs Campaign S1E29.md",
-    "Session Notes/Frogs Campaign S1E28.md"
+    "Test.md",
+    "Templates/Character.md",
+    "Templates/Dal Glug Session.md",
+    "Templates/Location.md",
+    "People/Kothvush.md",
+    "Session Notes/Frogs Campaign S1E44.md",
+    "Session Notes/Frogs Campaign S1E19.md",
+    "People/Palu.md",
+    "Session Notes/Frogs Campaign S1E11.md",
+    "People/Mo.md",
+    "People/The Beast.md",
+    "People/Tikamor.md",
+    "People/Glacialmaw.md",
+    "People/Vevnas.md",
+    "People/Virahck.md",
+    "People/Pico.md",
+    "People/Klept.md",
+    "King Fleshbarg's Key.md",
+    "Questlines",
+    "README.md",
+    "Files",
+    "Templates"
   ]
 }

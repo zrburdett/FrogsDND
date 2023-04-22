@@ -6,7 +6,29 @@
   "hideUnresolved": false,
   "showOrphans": true,
   "collapse-color-groups": false,
-  "colorGroups": [],
+  "colorGroups": [
+    {
+      "query": "path:People",
+      "color": {
+        "a": 1,
+        "rgb": 16755200
+      }
+    },
+    {
+      "query": "path:Locations",
+      "color": {
+        "a": 1,
+        "rgb": 327424
+      }
+    },
+    {
+      "query": "path:\"Session Notes\"",
+      "color": {
+        "a": 1,
+        "rgb": 14024879
+      }
+    }
+  ],
   "collapse-display": false,
   "showArrow": false,
   "textFadeMultiplier": 0,

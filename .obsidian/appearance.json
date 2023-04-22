@@ -1,4 +1,9 @@
 {
   "accentColor": "",
-  "cssTheme": "Obsidian gruvbox"
+  "cssTheme": "ITS Theme",
+  "enabledCssSnippets": [
+    "iconsITC",
+    "alternateITS"
+  ],
+  "theme": "moonstone"
 }

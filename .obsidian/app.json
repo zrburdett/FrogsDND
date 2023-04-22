@@ -1,3 +1,6 @@
 {
-  "showInlineTitle": false
+  "showInlineTitle": false,
+  "attachmentFolderPath": "Files",
+  "readableLineLength": true,
+  "spellcheck": true
 }
