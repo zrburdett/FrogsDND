@@ -1,8 +1,8 @@
 ---
 type: campaign
 tags: dnd
-created: 2022-09-15 03:33:27 -07:00
-updated: 2023-01-28 11:36:04 -08:00
+created: 2022-09-15T03:33:27-07:00
+updated: 2023-04-17T01:41:06-07:00
 ---
 # Dal Glug's Awakening
 ## *Frogs Campaign Season One*
@@ -20,6 +20,7 @@ SORT file.name desc
 TABLE race AS "Race", class AS "Class"
 FROM "People" AND -#former-pc
 WHERE type = "character" AND campaign = "Dal Glug's Awakening"
+sort file.name asc
 ```
 
 ## NPCs
@@ -27,6 +28,7 @@ WHERE type = "character" AND campaign = "Dal Glug's Awakening"
 TABLE description as "Description", location as "Location"
 FROM "People"
 WHERE type = "npc" AND campaign = "Dal Glug's Awakening" 
+SORT updated asc
 ```
 
 ## Locations
@@ -34,6 +36,7 @@ WHERE type = "npc" AND campaign = "Dal Glug's Awakening"
 TABLE description as Description
 FROM "Locations"
 WHERE type = "location" AND campaign = "Dal Glug's Awakening"
+SORT updated asc
 ```
 
 ## Key Objects

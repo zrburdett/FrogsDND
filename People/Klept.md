@@ -4,8 +4,8 @@ tags: dnd, former-pc
 race: rock gnome
 class: rogue
 campaign: "Dal Glug's Awakening"
-created: 2022-09-16 02:29:39 -07:00
-updated: 2022-09-16 17:46:52 -07:00
+created: 2022-09-16T02:29:39-07:00
+updated: 2023-04-17T01:08:42-07:00
 ---
 # **Klept Fo**
 ## *Rock Gnome Rogue*
@@ -19,4 +19,4 @@ updated: 2022-09-16 17:46:52 -07:00
 
 
 ### **Notes**
-Comes from THE MEADOW, sent to jail because stole another similarly-sized gnome, fashioned a holster for the gnome, holster is now gnome-less.
+Comes from *The Meadow*, sent to jail because stole another similarly-sized gnome, fashioned a holster for the gnome, holster is now gnome-less.

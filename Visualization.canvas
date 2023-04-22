@@ -1,0 +1,17 @@
+{
+	"nodes":[
+		{"type":"group","id":"b130c2cbb24d5ac8","x":-2640,"y":-1360,"width":2480,"height":2480,"label":"The Party","background":"Files/paper-square.jpg"},
+		{"type":"group","id":"2e5b132b712fa143","x":-5160,"y":-600,"width":2000,"height":960,"color":"#c8aa6c","label":"Former Party Members"},
+		{"type":"file","file":"People/Azurak.md","id":"4939518cd31cba3a","x":-5080,"y":-515,"width":558,"height":794},
+		{"type":"file","file":"People/Mo.md","id":"bca94cb62f92eeae","x":-4440,"y":-515,"width":558,"height":794},
+		{"type":"file","file":"People/Klept.md","id":"5aeab88dd3fb5a49","x":-3800,"y":-515,"width":558,"height":794},
+		{"type":"file","file":"Test.md","id":"4d32250b8b4231fd","x":-4140,"y":-2340,"width":980,"height":1420},
+		{"type":"file","file":"People/Palu.md","id":"cd00696a45401340","x":-1680,"y":-1120,"width":558,"height":796},
+		{"type":"file","file":"People/Draxus.md","id":"ef388df7bd2c771f","x":-1680,"y":-260,"width":558,"height":796},
+		{"type":"file","file":"People/Virahck.md","id":"2f6fa13ad915c64b","x":-1040,"y":-1120,"width":558,"height":794},
+		{"type":"file","file":"People/Vevnas.md","id":"91a2fbd40ce0e884","x":-1040,"y":-258,"width":558,"height":794},
+		{"type":"file","file":"People/Kothvush.md","id":"014a2c023468166f","x":-2320,"y":-1120,"width":558,"height":796},
+		{"type":"file","file":"People/Glacialmaw.md","id":"2c1e23ac6ef6a477","x":-2320,"y":-260,"width":558,"height":794}
+	],
+	"edges":[]
+}
